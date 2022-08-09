@@ -1,0 +1,7 @@
+displayName: Mobile Map-Shot
+name: mobile-mapshot
+subtitle: Take map-shots in mobile!
+description: "Allows mobile players to take map-shots\n\nMapshots are saved in the 'screenshots' folder in the game's data directory.\n\nThere is a setting on whether to check for memory or not."
+author: Mythril
+version: 1.0.0
+minGameVersion: 137
