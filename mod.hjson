@@ -5,3 +5,4 @@ description: "Allows mobile players to take map-shots\n\nMapshots are saved in t
 author: Mythril
 version: 1.0.0
 minGameVersion: 137
+repo: Mythril382/MobileMapshot
